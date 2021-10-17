@@ -1,3 +1,18 @@
+# 我的更改
+
+- 更换了全部图标的配色与设计，已经应用于[NWeatherReport](https://github.com/ningkaiqiang/NWeatherReport)，图标设计来自于[HCLKHC的工作](https://www.iconfont.cn/collections/detail?spm=a313x.7781069.0.da5a778a4&cid=21619)
+- 使用Python，方便的转换文件格式到PNG
+
+## 使用svg2png.py
+
+- 安装：`Pip3 install cairosvg`
+
+- 更改svg文件路径、导出路径，已经设置了60px、80px、160px、240px的导出
+
+## 截图
+
+![](./icons/shot.png)
+
 # 和风天气图标 QWeather Icons
 
 [English](#qweather-icons)
